@@ -81,4 +81,6 @@ Model	R2 Score	MAE	RMSE
 Linear Regression	0.74	0.00029	0.00039
 Gradient Boosting	0.85	0.00019	0.00028
 Random Forest	0.85	0.00020	0.00029
-
+🔗 Live App (on AWS EC2)
+Click Here to Open
+(Replace with your actual EC2 link)
